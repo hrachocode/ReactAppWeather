@@ -2,7 +2,10 @@ var React = require('react');
 
 var About = (props) => {
 	return (
-			<h1>Hello from About</h1>
+			<div>
+				<h1>Hello from About</h1>
+				<p>What About you?</p>
+			</div>
 		)
 }
 
